@@ -39,7 +39,7 @@ The dashboard presents **comparative insights between current usage and future p
 
 | Current Databases | Desired Databases |
 |------------------|------------------|
-| ![Databases Worked With](database 1.png) | ![Databases Want To Work With](database 2.png) |
+| ![Databases Worked With](database_1.png) | ![Databases Want To Work With](database 2.png) |
 
 ---
 
